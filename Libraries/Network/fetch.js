@@ -20,4 +20,3 @@ if (whatwg && whatwg.fetch) {
   } else {
     module.exports = {fetch, Headers, Request, Response};
   }
-  
